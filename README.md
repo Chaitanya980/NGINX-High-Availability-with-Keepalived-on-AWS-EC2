@@ -155,5 +155,11 @@ This repository contains a setup for achieving high availability (HA) for NGINX 
 
 ## Contributing
 Feel free to submit issues or pull requests to improve this setup!
+![VIP Assigned on Instance A](screenshots/A.png)
+![VIP Assigned on Instance A](screenshots/B.png)
+![VIP Assigned on Instance A](screenshots/InstanceA.png)
+![VIP Assigned on Instance A](screenshots/InstanceB.png)
+![VIP Assigned on Instance A](screenshots/KeepalivedRunning.png)
+
 
 ---
